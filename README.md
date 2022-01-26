@@ -5,7 +5,9 @@ My repository for the blockchain lecture 2022 at dhbw mannheim
 ## Erste Vorlesung
 Benutzter Technologie Stack:
 remix.ethereum.org - als Online IDE für Smart Contracts
+
 metamask.io - als Web3 Wallet integriert in Chrome/Brave
+
 Solidity - objektorientiere anwendungsspezifische höhere Programmiersprache für die Entwicklung von Smart Contracts auf Blockchain-Plattformen
 
 ### Erstellen eines eigenen Smart Contract mit Solidity
