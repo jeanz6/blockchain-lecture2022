@@ -12,7 +12,9 @@ Solidity - objektorientiere anwendungsspezifische höhere Programmiersprache fü
 
 faucet.egorfine.com - Webseite zum erhalten von Testether, einfach deine Walletadresse eintragen und man erhält 0.3 ETH 
 
-### Erstellen eines eigenen Smart Contract mit Solidity
+ropsten.etherscan.io - Blockchain Explorer für Ropsten Testnetzwerk
+
+### Erstellen eines eigenen Smart Contract mit Solidity und Deployment auf Ropsten Testnetzwerk
 1. Gehe auf remix.ethereum.org 
 2. Erstelle eine weitere .sol-Datei unter dem Ordner contracts
 3. Die Datei soll folgenden Code enthalten mit der wir den ersten TINF-Coin kreieren
@@ -37,6 +39,7 @@ Der Coin ist auf 42 Coins limitiert und basiert auf dem ERC20-Token Standard -->
 
 4. Compiliere innerhalb der IDE den Smart Contract
 5. Für den Deploy wählen wir als Environment Injected Web3 aus. Nun sollte sich das Metamask Wallet damit verbinden
+6. 
 
 
 
