@@ -47,6 +47,10 @@ Der Coin ist auf 42 Coins limitiert und basiert auf dem ERC20-Token Standard -->
 11. Nun sollten wir innerhalb unseres Metamask Wallets unsere 42 TINF-Coins sehen.
 
 
+### Testing to Deploy a NFT on <test.opensea.io>
+Als erstes sollte man sich ein paar hübsche Kunstwerke anlegen - dies könnnen einfache Bilder sein.
+
+
 
 
 
