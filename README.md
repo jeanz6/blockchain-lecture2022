@@ -4,6 +4,7 @@ My repository for the blockchain lecture 2022 at dhbw mannheim
 
 ## Erste Vorlesung
 Benutzter Technologie Stack:
+
 <https://remix.ethereum.org> - als Online IDE für Smart Contracts
 
 <https://metamask.io> - als Web3 Wallet integriert in Chrome/Brave
@@ -47,7 +48,7 @@ Der Coin ist auf 42 Coins limitiert und basiert auf dem ERC20-Token Standard -->
 11. Nun sollten wir innerhalb unseres Metamask Wallets unsere 42 TINF-Coins sehen.
 
 
-### Testing to Deploy a NFT on <test.opensea.io>
+### Testing to Deploy a NFT on <https://test.opensea.io>
 Als erstes sollte man sich ein paar hübsche Kunstwerke anlegen - dies könnnen einfache Bilder sein.
 
 
